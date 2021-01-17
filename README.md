@@ -10,4 +10,5 @@ Email: [contact@acenox.fr](mailto:contact@acenox.fr)
 
 Site: https://hydeos.fr <br>
 Discord: https://discord.gg/ParCB6HbA3 <br>
+Github: https://github.com/ServeurHydeos <br>
 Email: [contact@hydeos.fr](mailto:contact@hydeos.fr)
