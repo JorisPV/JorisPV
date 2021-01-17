@@ -1,6 +1,6 @@
-### Hi there 👋
+### Bienvenue 👋
 
-Jeune Étudiant en Informatique, Je suis Auto-Entrepreneur de [Hydeos](https://hydeos.fr)
+Je me prénomme Joris, je suis actuellement Étudiant en Informatique & Auto-Entrepreneur de [Hydeos](https://hydeos.fr)
 
 ![Acenox](https://github-readme-stats.vercel.app/api?username=Acenox&show_icons=true&theme=dracula&locale=en&count_private=true&include_all_commits=true&hide=prs,contribs)
 
