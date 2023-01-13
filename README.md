@@ -1,18 +1,24 @@
-### Bienvenue 👋
+# Bienvenue 👋
 
-Je me prénomme Joris, je suis actuellement Étudiant en Informatique & Auto-Entrepreneur de [Hydeos](https://hydeos.fr)
+Je me prénomme Joris, je suis actuellement Alternant en Informatique (Admin systèmes réseaux) & Auto-Entrepreneur de [Hydeos](https://hydeos.fr). 
+Je suis passionné depuis 2015 et je réalise des projets en dehors de mes études pour monter en compétence dans plusieurs domaines.
 
-![Acenox](https://github-readme-stats.vercel.app/api?username=Acenox&show_icons=true&theme=dracula&locale=en&count_private=true&include_all_commits=true&hide=prs,contribs)
-
-### Contact
-
-* Site: https://acenox.fr
-* Discord: Acenox#6666
-* Email: [contact@acenox.fr](mailto:contact@acenox.fr) 
+# Mes projets 💪
 
 ### Hydeos
 
-* Site: https://hydeos.fr
-* Discord: https://discord.gg/ParCB6HbA3
-* Github: https://github.com/ServeurHydeos
-* Email: [contact@hydeos.fr](mailto:contact@hydeos.fr)
+* https://hydeos.fr
+* https://github.com/ServeurHydeos
+* [contact@hydeos.fr](mailto:contact@hydeos.fr)
+
+### Projet d'étude - Linux
+
+https://github.com/Acenox/Projet_Linux
+
+# Contact 🤝
+
+* [contact@joris-parmentier.fr](mailto:contact@joris-parmentier.fr)
+
+# Github 📊
+
+![Acenox](https://github-readme-stats.vercel.app/api?username=Acenox&show_icons=true&theme=dracula&locale=en&count_private=true&include_all_commits=true&hide=prs,contribs)
