@@ -18,6 +18,8 @@ https://github.com/Acenox/Projet_Linux
 # Contact 🤝
 
 * [contact@joris-parmentier.fr](mailto:contact@joris-parmentier.fr)
+* <a href="https://twitter.com/Acenox_Joris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hy_antt0n" height="30" width="40" /></a>
+* <a href="https://t.me/Acenox" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="antt0n" height="30" width="40" /></a>
 
 # Github 📊
 
