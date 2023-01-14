@@ -1,4 +1,4 @@
-# Bienvenue 👋
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23477BF7&lines=%F0%9F%91%8B+Bienvenue)](https://git.io/typing-svg)
 
 Je me prénomme Joris, je suis actuellement Alternant en Informatique (Admin systèmes réseaux) & Auto-Entrepreneur de [Hydeos](https://hydeos.fr). 
 Je suis passionné depuis 2015 et je réalise des projets en dehors de mes études pour monter en compétence dans plusieurs domaines.
