@@ -11,16 +11,17 @@ Je suis passionné depuis 2015 et je réalise des projets en dehors de mes étud
 * https://github.com/ServeurHydeos
 * [contact@hydeos.fr](mailto:contact@hydeos.fr)
 
-### Projet d'étude - Linux
+### Mes projets d'études
 
-https://github.com/Acenox/Projet_Linux
+* https://github.com/Acenox/Projet_Linux
+* https://github.com/JorisPV/Projet_ESGI_2023-2024
+* https://github.com/JorisPV/azure-webapp
+* https://github.com/JorisPV/TP_Azure_1
+* https://github.com/JorisPV/TP_Azure_2
+
 
 # Contact 🤝
 
 * [contact@joris-parmentier.fr](mailto:contact@joris-parmentier.fr)
-* <a href="https://twitter.com/Acenox_Joris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hy_antt0n" height="30" width="40" /></a>
+* <a href="https://twitter.com/Joris_HY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hy_antt0n" height="30" width="40" /></a>
 * <a href="https://t.me/Acenox" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="antt0n" height="30" width="40" /></a>
-
-# Github 📊
-
-![Acenox](https://github-readme-stats-ib6i6z3nb-acenox.vercel.app/api?username=Acenox&show_icons=true&theme=dracula&locale=en&count_private=true&include_all_commits=true&hide=prs,contribs)
