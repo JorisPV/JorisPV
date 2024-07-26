@@ -22,6 +22,13 @@ Je suis passionné depuis 2015 et je réalise des projets en dehors de mes étud
 
 # Contact 🤝
 
-* [contact@joris-parmentier.fr](mailto:contact@joris-parmentier.fr)
-* <a href="https://twitter.com/Joris_HY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hy_antt0n" height="30" width="40" /></a>
-* <a href="https://t.me/Acenox" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="antt0n" height="30" width="40" /></a>
+[contact@joris-parmentier.fr](mailto:contact@joris-parmentier.fr)
+<p align="left">
+<a href="https://twitter.com/JorisPV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hy_antt0n" height="30" width="40" /></a>
+<a href="https://t.me/Acenox" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Acenox" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/170657105269882881" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JorisPV&" alt="JorisPV" />
+</p>
