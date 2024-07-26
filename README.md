@@ -13,7 +13,7 @@ Je suis passionné depuis 2015 et je réalise des projets en dehors de mes étud
 
 ### Mes projets d'études
 
-* https://github.com/Acenox/Projet_Linux
+* https://github.com/JorisPV/Projet_Linux
 * https://github.com/JorisPV/Projet_ESGI_2023-2024
 * https://github.com/JorisPV/azure-webapp
 * https://github.com/JorisPV/TP_Azure_1
