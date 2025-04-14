@@ -1,7 +1,7 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23477BF7&lines=%F0%9F%91%8B+Bienvenue)](https://git.io/typing-svg)
 
-Je me prénomme Joris, je suis actuellement Alternant en Informatique (Admin systèmes réseaux) & Auto-Entrepreneur de [Hydeos](https://hydeos.fr). 
-Je suis passionné depuis 2015 et je réalise des projets en dehors de mes études pour monter en compétence dans plusieurs domaines.
+Je me prénomme Joris, je suis Administrateur d'environnement de Production dans une entreprise comptant + de 1500 salariés & Auto-Entrepreneur de [Hydeos](https://hydeos.fr). 
+Je suis passionné depuis 2015 et je réalise de temps en temps des projets pour monter en compétence dans plusieurs domaines.
 
 # Mes projets 💪
 
@@ -25,7 +25,7 @@ Je suis passionné depuis 2015 et je réalise des projets en dehors de mes étud
 
 # Contact 🤝
 
-[contact@joris-parmentier.fr](mailto:contact@joris-parmentier.fr)
+[contact@hydeos.fr](mailto:contact@contact@hydeos.fr)
 <p align="left">
 <a href="https://twitter.com/JorisPV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hy_antt0n" height="30" width="40" /></a>
 <a href="https://t.me/Acenox" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Acenox" height="30" width="40" /></a>
